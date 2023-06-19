@@ -30,8 +30,7 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- Live Site URL: [https://luis-eduardo-drehmer.github.io/huddle-landing-page-with-single-introductory-section-master/](https://your-live-site-url.com)
-
+- Live Site URL: [https://luis-eduardo-drehmer.github.io/huddle-landing-page-with-single-introductory-section-master/]
 ## Meu processo
 
 ### Construção
