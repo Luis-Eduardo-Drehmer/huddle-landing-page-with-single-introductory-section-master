@@ -26,6 +26,7 @@ Os usuários devem ser capazes de:
 ### Screenshot
 
 ![](./src/images/screenshot.png)
+
 ![](./src/images/screenshot-2.png)
 
 ### Links
