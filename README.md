@@ -4,15 +4,15 @@ Esta é uma solução para o [Huddle landing page with single introductory secti
 
 ## Índice
 
-- [Visão geral](#overview)
-  - [Desafio](#the-challenge)
+- [Visão geral](#visão-geral)
+  - [Desafio](#desafop)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [Meu processo](#my-process)
-  - [Feito com](#built-with)
-  - [O que eu aprendi](#what-i-learned)
-  - [Desenvolvimento contínuo](#continued-development)  
-- [Autor](#author)
+- [Meu processo](#meu-processo)
+  - [Feito com](#feito-com)
+  - [O que eu aprendi](#o-que-eu-aprendi)
+  - [Desenvolvimento contínuo](#desenvolvimento-contínuo)  
+- [Autor](#autor)
 
 ## Visão geral
 
