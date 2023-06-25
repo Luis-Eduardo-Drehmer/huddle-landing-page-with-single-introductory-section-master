@@ -9,14 +9,13 @@ Esta é uma solução para o [Huddle landing page with single introductory secti
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [Meu processo](#meu-processo)
-  - [Feito com](#feito-com)
   - [O que eu aprendi](#o-que-eu-aprendi)
   - [Desenvolvimento contínuo](#desenvolvimento-contínuo)  
 - [Autor](#autor)
 
 ## Visão geral
 
-### O desafio
+### Desafio
 
 Os usuários devem ser capazes de:
 
@@ -51,7 +50,7 @@ Aprendi a usar melhor as propriedades do css (Gird e flexbox)
 Para os próximos projetos quero focar em melhorar a parte de responsivo e posicionamento dos elementos.
 
 
-## Author
+## Autor
 
 - Linkedin - [Luis Eduardo Drehmer](https://www.linkedin.com/in/luis-eduardo-drehmer-818303228/)
 - Frontend Mentor - [@Luis-Eduardo-Drehmer](https://www.frontendmentor.io/profile/Luis-Eduardo-Drehmer)
