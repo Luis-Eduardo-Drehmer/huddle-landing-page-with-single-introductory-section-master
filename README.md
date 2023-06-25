@@ -5,7 +5,7 @@ Esta é uma solução para o [Huddle landing page with single introductory secti
 ## Índice
 
 - [Visão geral](#visão-geral)
-  - [Desafio](#desafop)
+  - [Desafio](#desafio)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [Meu processo](#meu-processo)
